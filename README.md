@@ -35,3 +35,8 @@ npm run start
 
 ### Sobre a construção da aplicação
 
+1. Função ImprimirTabuleiro()
+
+    - Essa função servirá para imprimir o tabuleiro
+
+2.     
