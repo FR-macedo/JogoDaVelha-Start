@@ -83,7 +83,7 @@ function jogar() {
       linha > 2 ||
       coluna < 0 ||
       coluna > 2 ||
-      tabuleiro[linha][coluna] !== ""
+      tabuleiro[linha][coluna] !== " "
     );
 
     tabuleiro[linha][coluna] = jogadorAtual;
