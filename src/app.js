@@ -59,7 +59,7 @@ function checarVitoria(jogadorAtual) {
 }
 
 function tabuleiroLotado() {
-  tabuleiro.every(row => row.every(cell => cell !== " "));
+  return tabuleiro.every(row => row.every(cell => cell !== " "));
 }
 
 function jogar() {
