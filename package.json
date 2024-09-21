@@ -4,7 +4,7 @@
   "description": "Jogo da velha simples construido para a cadeira de Lógica do curso de BACKEND do projeto Start",
   "main": "/src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node /src/app"
   },
   "author": "",
   "license": "ISC",

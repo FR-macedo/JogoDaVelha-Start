@@ -1,0 +1,1 @@
+const Scanner = require("readline-sync");

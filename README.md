@@ -13,4 +13,25 @@ Esse jogo da velha simples construído com javascript foi feito para o curso de 
 - Luan Carlos
 - Ronaldo Rodrigues
 
-### 
+### Como rodar a aplicação
+
+1. Clone o repositório na sua máquina, rodando este comando no terminal
+
+```
+git clone https://github.com/FR-macedo/JogoDaVelha-Start.git
+```
+
+2. Instale as dependencias necessárias, rodando este comando no terminal
+
+```
+npm i
+```
+
+3. Rode a aplicação utilizando este comando no terminal (necessária a instalação prévia do NODE)
+
+```
+npm run start
+```
+
+### Sobre a construção da aplicação
+
